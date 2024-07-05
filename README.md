@@ -1,5 +1,7 @@
 # Graph RAG on Osedea Blogs
 
+![GRAG Pipeline](./assets/graph.png)
+
 This repository contains two Jupyter notebooks designed for specific tasks: web scraping Osedea blogs and setting up a retrieval-augmented generation (RAG) pipeline with knowledge graphs and vectors.
 
 ## Setup
